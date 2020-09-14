@@ -1,3 +1,3 @@
 # Python-Calculator
-A simple calculator for simple calculations 
+A simple calculator for simple calculations \n
 #geeksforgeeks.org
